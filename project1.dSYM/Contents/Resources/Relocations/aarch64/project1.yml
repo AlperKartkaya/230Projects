@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/alperkartkaya/Desktop/230Projects/project1'
+binary-path:     '/Users/alperkartkaya/Desktop/repo/230Projects/project1'
 relocations:     []
 ...
